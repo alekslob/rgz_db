@@ -1,0 +1,5 @@
+DB_NAME = 'rgz_db'
+DB_USER = 'rgz_user'
+DB_PASSWORD = 'rgz_user_password'
+HOST = 'localhost'
+PORT = '5432'
